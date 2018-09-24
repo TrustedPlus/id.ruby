@@ -1,6 +1,6 @@
 # Omniauth IdTrustedPlus
 
-The [OmniAuth](https://github.com/intridea/omniauth) strategy for authenticating to [IDTrustedPlus](https://id.trusted.plus).
+The [OmniAuth](https://github.com/intridea/omniauth) strategy for authenticating to [https://trusted.plus/id](https://trusted.plus/id).
 
 ## Installation
 
