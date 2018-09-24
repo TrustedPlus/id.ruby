@@ -7,7 +7,7 @@ The [OmniAuth](https://github.com/intridea/omniauth) strategy for authenticating
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'omniauth-idTrustedPlus', git: 'https://github.com/TrustedPlus/idTrustedPlus-OmniAuth.git'
+gem 'omniauth-idTrustedPlus', git: 'https://github.com/TrustedPlus/id.ruby.git'
 ```
 
 And then execute:
